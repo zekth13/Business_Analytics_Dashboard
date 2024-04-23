@@ -1,0 +1,33 @@
+RECORD:
+(.env)-> changing the MARIA_HOST from 192.168.22.14 to 172.16.12.201 ;
+Keluar error ni (SQLSTATE[HY000] [1045] Access denied for user 'root'@'192.168.22.13' (using password: YES) 
+(SQL: select NVL(sum(amount), 0) amount from `sales` where 1=1 and MONTH(tdate) = 8 and YEAR(tdate) = 2022 limit 1));
+
+
+
+
+MISSION:
+
+2)lOGIN PAGE
+:Betulkkan sikit spacing;
+:RESET PASSWORD give error when sent email and takde blade lagi
+Error Code : 904 Error Message : ORA-00904: "EMAIL": invalid identifier Position : 46 Statement : select * from 
+(select * from "MKFPASMI" where "EMAIL" = :p0) where rownum = 1 Bindings : [amirulamin.arman@gmail.com] (SQL: select * 
+from (select * from "MKFPASMI" where "EMAIL" = amirulamin.arman@gmail.com) where rownum = 1);
+:TABLE for input more user does not EXIST;
+
+TO BE CONTINUE.
+
+3)DASHBOARD
+:Betulkan semua data (EARNINGS MONTHLY/EARNINGS ANNUAL/QUANTITY MONTHLY/QUANTITY ANNUAL)
+:Insert Chart(SALES per YEAR/SALES per STATES);
+:PROJECTS convert to TOP PRODUCTS;
+:The rest BUANG;
+
+4)SALES
+:
+
+5)SUPPLIER
+6)INVENTORY
+7)WAREHOUSE
+8)PROMOTION

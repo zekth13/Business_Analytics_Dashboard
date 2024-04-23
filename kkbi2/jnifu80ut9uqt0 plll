@@ -1,0 +1,194 @@
+[33mcommit 2454d4082e2762475e36862708521edbd62da07c[m[33m ([m[1;36mHEAD -> [m[1;32mtesting_api[m[33m, [m[1;31morigin/testing_api[m[33m)[m
+Merge: 05ca2b1 43f5d93
+Author: amirulamin13 <muhammadamirulamin.is@gmail.com>
+Date:   Wed Nov 1 16:30:16 2023 +0800
+
+    editing
+
+[33mcommit 43f5d93536abc8c055249e5549bc0e0622cc965b[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Sun Oct 22 23:12:02 2023 +0800
+
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit 78f33951bd2db28d332500c3ceb77e1b947725d2[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Sun Oct 22 23:04:32 2023 +0800
+
+    Added new sidebar (Reporting), then made the nessesary setup to develop it.
+    
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit 4ddb79be3eed6164e08f36fa01e98485c4ef6f49[m
+Merge: 8b26b46 d75aebb
+Author: Izathakem <izathakem@gmail.com>
+Date:   Sun Oct 22 10:35:04 2023 +0800
+
+    Merge branch 'master' of https://github.com/zekth13/kkbi2
+
+[33mcommit 8b26b4625024edd8df40da119cda21aca812863b[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Sun Oct 22 10:34:12 2023 +0800
+
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit 05ca2b135e7277ad288cfc91a5c327ab3381ce83[m
+Author: amirulamin13 <muhammadamirulamin.is@gmail.com>
+Date:   Mon Oct 16 01:08:59 2023 +0800
+
+    add forecast page
+
+[33mcommit d702360f6bab59fb98863511e1db58cd1d22b06a[m
+Author: amirulamin13 <muhammadamirulamin.is@gmail.com>
+Date:   Fri Oct 13 19:10:43 2023 +0800
+
+    using get and post
+
+[33mcommit 37e3519f6861151c0f9c82845ab44112c0ea4ac4[m
+Author: amirulamin13 <muhammadamirulamin.is@gmail.com>
+Date:   Fri Oct 13 16:07:34 2023 +0800
+
+    add new blade, test api
+
+[33mcommit d75aebb46190d2d45a0c421a1892f46d77b044e0[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Tue Oct 10 12:26:13 2023 +0800
+
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit f450e474903b6d6b82c0a3e3cd9cae08eb4b6e8c[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Wed Aug 23 16:03:29 2023 +0800
+
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit 1e42ccfa65ceee7ffcf65a042fffd88e3f9cc199[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: amirulamin13 <muhammadamirulamin.is@gmail.com>
+Date:   Mon Aug 14 13:12:48 2023 +0800
+
+    update gitignore files
+
+[33mcommit ebe5a92d912100f4fbbfd51a8979f3ce51865a91[m
+Author: amirulamin13 <muhammadamirulamin.is@gmail.com>
+Date:   Sat Aug 12 07:34:23 2023 +0800
+
+    new repo
+
+[33mcommit 4b7cd9617451adfa33fa043f4d1df9be616a7878[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Tue Nov 15 11:58:48 2022 +0800
+
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit 7f33f570aaa8f3a0f39607eff81130f887226698[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Mon Nov 14 10:17:37 2022 +0800
+
+    update
+
+[33mcommit 68287d597c7a139c64bd016d91cf113ad634c689[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Mon Nov 14 10:07:33 2022 +0800
+
+    changed href from index.html to home (dashboard)
+
+[33mcommit d5032e0275e8aa319615542a0e1f46443944bccd[m
+Author: zekth13 <amirulamin.arman@gmail.com>
+Date:   Tue Nov 8 16:10:25 2022 +0800
+
+    Update home.blade.php
+
+[33mcommit a910f92ba996328c5e5d27ad878e21b5618d4544[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Tue Nov 8 16:08:51 2022 +0800
+
+    added GOO/SUP_No. and resized tables.
+
+[33mcommit c61c5b7c3e51604bacceb3b0120a47797bc83d06[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Mon Nov 7 17:56:31 2022 +0800
+
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit 046ccbe8995748ab314046ee1a9a9df792e8f438[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Mon Nov 7 15:33:57 2022 +0800
+
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit 1027b6fc9f0b63fa4cd7b4ce3e5f6abb3cc1f124[m
+Author: zekth13 <amirulamin.arman@gmail.com>
+Date:   Mon Nov 7 15:32:59 2022 +0800
+
+    SalesController / outletsBlade
+
+[33mcommit f7891cdb8f0a10a756fa1c22a7400b077cd07f70[m
+Author: zekth13 <102340450+zekth13@users.noreply.github.com>
+Date:   Mon Nov 7 12:39:30 2022 +0800
+
+    Delete outletsController.php
+
+[33mcommit c2d5151682084ed4b3d2ef97f746944a1aec56ac[m
+Merge: b2e15ff 718f7b7
+Author: zekth13 <amirulamin.arman@gmail.com>
+Date:   Mon Nov 7 12:38:10 2022 +0800
+
+    Merge branch 'main' of https://github.com/Izathakem/kkbi2
+
+[33mcommit b2e15ff85265a85accc15d09b70f6a6c6244e1f3[m
+Author: zekth13 <amirulamin.arman@gmail.com>
+Date:   Mon Nov 7 12:36:51 2022 +0800
+
+    SalesController/outletsBlade
+
+[33mcommit 718f7b7017b725e46a08b5d5bc2243a51a828dc1[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Fri Nov 4 18:00:39 2022 +0800
+
+    update...
+    
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit a361461c45b3c8fdbc5f2195084fb4143b2f3d8b[m
+Author: zekth13 <amirulamin.arman@gmail.com>
+Date:   Fri Nov 4 16:06:03 2022 +0800
+
+    newQueryOulets
+
+[33mcommit 800e154b622b3331a9b2232efa488fd42100e0f7[m
+Author: zekth13 <amirulamin.arman@gmail.com>
+Date:   Fri Nov 4 15:26:57 2022 +0800
+
+    OutletBlade, Web, SalesController
+
+[33mcommit 712e0ad49b1d5c5c9432a11e2575b8c9547b65a3[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Fri Nov 4 14:45:31 2022 +0800
+
+    update
+    
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit e4561570e7cf590561261cd9295314dd9460411b[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Fri Nov 4 12:45:48 2022 +0800
+
+    some changes
+
+[33mcommit 791b4c71f8184c5fa4197a7c0a031b8dc1a56d8c[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Fri Nov 4 12:27:08 2022 +0800
+
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit d1e7c1f1475fcd4cd89df6cdc66b24479a1e2240[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Fri Nov 4 10:21:12 2022 +0800
+
+    Signed-off-by: Izathakem <izathakem@gmail.com>
+
+[33mcommit 502d97c2a9ee46634c9b22aee6ca112164a6968a[m
+Author: Izathakem <izathakem@gmail.com>
+Date:   Fri Nov 4 10:20:57 2022 +0800
+
+    update
