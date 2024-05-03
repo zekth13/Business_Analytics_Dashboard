@@ -1,0 +1,6 @@
+[submodule "Data-Warehouse"]
+	path = Data-Warehouse
+	url = https://github.com/zekth13/Data-Warehouse.git
+[submodule "Forecast-Model"]
+	path = Forecast-Model
+	url = https://github.com/zekth13/Forecast-Model.git
